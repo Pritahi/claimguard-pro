@@ -1,0 +1,42 @@
+METRO HOSPITAL - DISCHARGE SUMMARY
+456 Medical Center, Delhi - 110001
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Priya Gupta
+Age/Sex: 52 Years / Female
+UHID: MH-2025-005678
+Admission Date: 10-02-2025
+Discharge Date: 15-02-2025
+Total Days: 5 Days
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Acute Appendicitis
+(Note: ICD code not mentioned in records)
+
+TREATMENT SUMMARY
+-----------------
+Patient presented with severe abdominal pain in right lower quadrant, 
+nausea and fever for 2 days. CT scan confirmed acute appendicitis.
+
+Treatment given:
+- Emergency Laparoscopic Appendectomy performed on 10-02-2025
+- Inj. Cefoperazone-Sulbactam 1.5g IV TDS x 5 days
+- Inj. Metronidazole 500mg IV TDS x 5 days
+- Pain management with Tramadol
+- Wound care and dressing daily
+
+Post-operative course was uneventful. Patient tolerated oral diet well.
+Bowel movements normal. No fever. Discharged in stable condition.
+
+ADVICE ON DISCHARGE
+-------------------
+1. Tab. Cefixime 200mg BD x 7 days
+2. Tab. Metronidazole 400mg TDS x 5 days
+3. Tab. Paracetamol SOS for pain
+4. Wound dressing on alternate days
+5. Avoid heavy lifting for 4 weeks
+6. Follow-up after 1 week
+
+Dr. Sanjay Verma (MS, Surgery)                    Date: 15-02-2025
