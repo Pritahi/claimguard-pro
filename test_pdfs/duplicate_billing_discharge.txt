@@ -1,0 +1,39 @@
+SUNRISE HOSPITAL - DISCHARGE SUMMARY
+321 Health Street, Chennai - 600001
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Suresh Nair
+Age/Sex: 38 Years / Male
+UHID: SH-2025-003456
+Admission Date: 18-02-2025
+Discharge Date: 22-02-2025
+Total Days: 4 Days
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Acute Cholecystitis with Gallstones (ICD-10: K80.2)
+Secondary Diagnosis: Mild Fatty Liver
+
+TREATMENT SUMMARY
+-----------------
+Patient presented with severe right upper quadrant pain, fever and vomiting.
+Ultrasound showed multiple gallstones with wall thickening.
+
+Treatment given:
+- Laparoscopic Cholecystectomy performed on 18-02-2025
+- IV antibiotics (Cefoperazone-Sulbactam + Metronidazole)
+- Pain management
+- Post-operative care
+
+Patient recovered well. Discharged on 4th post-op day.
+
+ADVICE ON DISCHARGE
+-------------------
+1. Tab. Cefixime 200mg BD x 5 days
+2. Tab. Metronidazole 400mg TDS x 5 days
+3. Tab. Diclofenac SOS for pain
+4. Low fat diet
+5. Follow-up after 1 week
+
+Dr. Lakshmi Krishnan (MS, Surgery)               Date: 22-02-2025
