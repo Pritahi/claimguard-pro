@@ -1,0 +1,46 @@
+APOLLO HOSPITAL - DISCHARGE SUMMARY
+100 Health Avenue, Hyderabad - 500001
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Anil Kumar Mehta
+Age/Sex: 48 Years / Male
+UHID: AH-2025-007890
+Admission Date: 01-02-2025
+Discharge Date: 08-02-2025
+Total Days: 7 Days
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Total Knee Replacement - Right Knee (ICD-10: M17.0)
+Secondary Diagnosis: Osteoarthritis, Grade 4
+
+TREATMENT SUMMARY
+-----------------
+Patient had severe knee pain and difficulty walking for past 2 years.
+X-ray showed advanced osteoarthritis with bone-on-bone changes.
+
+Procedure performed:
+- Total Knee Replacement (Right) on 01-02-2025
+- Implant: Zimmer Biomet Persona Knee System
+- Procedure uneventful
+
+Post-operative course:
+- ICU monitoring for 1 day
+- Physiotherapy started from day 2
+- Patient mobilized with walker
+- Stitches removed on day 7
+
+Discharged with good range of motion and stable vitals.
+
+ADVICE ON DISCHARGE
+-------------------
+1. Continue physiotherapy for 6 weeks
+2. Tab. Cefixime 200mg BD x 7 days
+3. Tab. Diclofenac SR 100mg OD x 10 days
+4. Tab. Thrombophob gel for DVT prophylaxis
+5. Follow-up after 2 weeks
+6. Use walker for 4 weeks
+
+Dr. Venkat Rao (MS Orthopedics)                 Date: 08-02-2025
+Registration No: MCI-ORTHO-5432                 Hospital Seal: [STAMP]
