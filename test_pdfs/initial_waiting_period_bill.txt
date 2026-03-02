@@ -1,0 +1,80 @@
+FORTIS HOSPITAL - FINAL BILL
+Bill No: BILL-2025-006789
+Bill Date: 28-01-2025
+
+Patient Name: Ritu Verma
+Age/Sex: 28 Years / Female
+Admission: 25-01-2025 | Discharge: 28-01-2025 (3 Days)
+
+================================================================================
+ROOM CHARGES
+================================================================================
+Twin Sharing Room - 3 days @ Rs. 3,000/day                           Rs. 9,000
+
+================================================================================
+CONSULTATION
+================================================================================
+Dr. Arun Banerjee (MD Medicine) - 3 days                             Rs. 4,500
+
+================================================================================
+INVESTIGATIONS
+================================================================================
+Complete Blood Count                                                   Rs. 400
+Stool Routine & Culture                                                Rs. 800
+Blood Sugar (F/PP)                                                     Rs. 300
+LFT/KFT                                                                Rs. 900
+Serum Electrolytes                                                     Rs. 600
+
+================================================================================
+MEDICINES
+================================================================================
+Inj. Ciprofloxacin                                                     Rs. 600
+Inj. Metronidazole                                                     Rs. 400
+Inj. Ondansetron                                                       Rs. 300
+Inj. Paracetamol                                                       Rs. 200
+IV Fluids (NS/DNS - 12 bottles)                                      Rs. 1,200
+ORS Packets (10 sachets)                                               Rs. 250
+
+================================================================================
+CONSUMABLES
+================================================================================
+IV Cannula (3 nos)                                                     Rs. 180
+Syringes (15 nos)                                                      Rs. 180
+
+================================================================================
+OTHER CHARGES
+================================================================================
+Nursing Charges                                                      Rs. 2,400
+Diet Charges                                                           Rs. 900
+
+================================================================================
+SUMMARY
+================================================================================
+Total Bill Amount:                                                   Rs. 22,110
+--------------------------------------------------------------------------------
+
+================================================================================
+INSURANCE VERIFICATION
+================================================================================
+Insurance Company: Care Health Insurance
+Policy Number: CHI-WAITING-TEST-002
+Policy Start Date: 01-01-2025
+Sum Insured: Rs. 3,00,000
+
+Claim Timeline:
+- Policy Inception: 01-01-2025
+- Date of Admission: 25-01-2025
+- Days since policy start: 24 days
+
+Waiting Period Status:
+- Initial Waiting Period: 30 days for illness
+- Days elapsed: 24 days
+- Days remaining: 6 days
+
+EXPECTED DECISION: REJECTED (Initial waiting period not completed)
+As per policy terms, expenses related to treatment of any illness within 
+30 days from the first policy commencement date shall be excluded except 
+claims arising due to an accident.
+
+This is NOT an accident case - it's an illness (Gastroenteritis).
+================================================================================
