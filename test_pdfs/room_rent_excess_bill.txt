@@ -1,0 +1,89 @@
+APOLLO HOSPITAL - FINAL BILL
+Bill No: BILL-2025-007890
+Bill Date: 08-02-2025
+
+Patient Name: Anil Kumar Mehta
+Age/Sex: 48 Years / Male
+Admission: 01-02-2025 | Discharge: 08-02-2025 (7 Days)
+
+================================================================================
+ROOM CHARGES (ROOM RENT LIMIT EXCEEDED)
+================================================================================
+Suite Room (Super Deluxe) - 7 days @ Rs. 12,000/day                 Rs. 84,000
+
+POLICY DETAILS:
+- Sum Insured: Rs. 5,00,000
+- Eligible Room Rent: 1% of SI = Rs. 5,000/day
+- Actual Room Rent: Rs. 12,000/day
+- EXCESS: Rs. 7,000/day x 7 days = Rs. 49,000
+- PROPORTIONATE DEDUCTION APPLICABLE ON ALL ASSOCIATED CHARGES
+
+================================================================================
+CONSULTATION
+================================================================================
+Dr. Venkat Rao (MS Ortho) - 7 days @ Rs. 2,500/day                  Rs. 17,500
+
+================================================================================
+OPERATION THEATRE
+================================================================================
+OT Charges (Major Surgery)                                          Rs. 35,000
+Anesthesia Charges                                                  Rs. 15,000
+
+================================================================================
+SURGERY & IMPLANTS
+================================================================================
+Total Knee Replacement Surgery                                      Rs. 85,000
+Knee Implant System (Zimmer Biomet)                                 Rs. 95,000
+
+================================================================================
+INVESTIGATIONS
+================================================================================
+Complete Blood Count                                                   Rs. 500
+LFT/KFT                                                              Rs. 1,500
+Blood Sugar (multiple)                                               Rs. 1,200
+X-Ray Knee (multiple views)                                          Rs. 1,500
+MRI Knee (pre-op)                                                    Rs. 8,500
+2D Echo                                                                Rs. 3,500
+ECG                                                                    Rs. 400
+
+================================================================================
+MEDICINES & CONSUMABLES
+================================================================================
+Antibiotics, Analgesics, etc.                                        Rs. 5,500
+Surgical Consumables                                               Rs. 12,000
+Blood Transfusion (1 unit)                                           Rs. 3,500
+
+================================================================================
+PHYSIOTHERAPY
+================================================================================
+Physiotherapy - 6 sessions @ Rs. 800/session                         Rs. 4,800
+
+================================================================================
+OTHER CHARGES
+================================================================================
+Nursing Charges                                                      Rs. 7,000
+Diet Charges                                                         Rs. 2,100
+
+================================================================================
+SUMMARY
+================================================================================
+Total Billed Amount:                                                Rs. 382,000
+--------------------------------------------------------------------------------
+
+CALCULATION OF PROPORTIONATE DEDUCTION:
+- Room Rent Ratio: Eligible 5,000 / Actual 12,000 = 0.417
+- Associated charges to be reduced by: 58.3%
+
+Associated Charges Subject to Proportionate Deduction:
+- Consultation: Rs. 17,500 -> Eligible: Rs. 7,297 (Deduction: Rs. 10,203)
+- Nursing: Rs. 7,000 -> Eligible: Rs. 2,917 (Deduction: Rs. 4,083)
+- Physiotherapy: Rs. 4,800 -> Eligible: Rs. 2,000 (Deduction: Rs. 2,800)
+- Total Proportionate Deduction: Rs. 17,086
+
+Knee Implant Check:
+- Billed: Rs. 95,000
+- NPPA Ceiling: Rs. 82,100
+- Overcharge: Rs. 12,900
+
+FINAL PAYABLE AFTER DEDUCTIONS: Rs. 352,014 (instead of Rs. 382,000)
+--------------------------------------------------------------------------------
