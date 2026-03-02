@@ -1,0 +1,48 @@
+CITY HOSPITAL - DISCHARGE SUMMARY
+123 Healthcare Road, Mumbai - 400001
+Phone: 022-12345678 | Email: info@cityhospital.com
+================================================================================
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Rajesh Kumar Sharma
+Age/Sex: 45 Years / Male
+UHID: CH-2025-001234
+Admission Date: 15-02-2025
+Discharge Date: 20-02-2025
+Total Days: 5 Days
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Community Acquired Pneumonia (ICD-10: J18.9)
+Secondary Diagnosis: Type 2 Diabetes Mellitus (Controlled)
+
+TREATMENT SUMMARY
+-----------------
+Patient presented with fever (102°F), cough with expectoration, and chest pain for 3 days. 
+Chest X-ray showed right lower lobe consolidation. WBC count elevated at 14,000/cumm.
+
+Treatment given:
+- Inj. Ceftriaxone 1g IV BD x 5 days
+- Inj. Azithromycin 500mg IV OD x 5 days  
+- Paracetamol SOS for fever
+- Nebulization with Salbutamol TDS
+- O2 support via nasal cannula (2L/min) for 2 days
+- Blood sugar monitoring and insulin as per sliding scale
+
+Patient responded well to treatment. Afebrile for last 48 hours. Oxygen saturation 
+maintained at 98% on room air. Discharged in stable condition.
+
+ADVICE ON DISCHARGE
+-------------------
+1. Tab. Amoxicillin-Clavulanate 625mg TDS x 7 days
+2. Tab. Azithromycin 500mg OD x 3 days
+3. Continue anti-diabetic medications
+4. Follow-up after 1 week with chest X-ray
+5. Avoid cold exposure and dust
+
+In case of breathlessness, high grade fever, or chest pain - report immediately.
+
+--------------------------------------------------------------------------------
+Dr. Amit Patel (MD, Medicine)                    Date: 20-02-2025
+Registration No: MCI-12345                       Hospital Seal: [STAMP]
