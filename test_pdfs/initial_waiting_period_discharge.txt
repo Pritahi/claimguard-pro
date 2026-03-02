@@ -1,0 +1,51 @@
+FORTIS HOSPITAL - DISCHARGE SUMMARY
+789 Healthcare Road, Kolkata - 700001
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Ritu Verma
+Age/Sex: 28 Years / Female
+UHID: FH-2025-006789
+Admission Date: 25-01-2025
+Discharge Date: 28-01-2025
+Total Days: 3 Days
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Acute Gastroenteritis with Dehydration (ICD-10: A09)
+Secondary Diagnosis: Mild Electrolyte Imbalance
+
+TREATMENT SUMMARY
+-----------------
+Patient presented with severe diarrhea (10-12 episodes/day), vomiting 
+and fever for 2 days. Dehydrated appearance, dry tongue, reduced urine output.
+
+Treatment given:
+- IV fluids (Normal Saline + DNS) with KCl
+- Antibiotics (Ciprofloxacin + Metronidazole)
+- Antiemetics (Ondansetron)
+- Antipyretics (Paracetamol)
+- ORS supplementation
+
+Patient responded well. Fever subsided after 24 hours. Diarrhea controlled.
+Discharged in stable condition.
+
+ADVICE ON DISCHARGE
+-------------------
+1. Tab. Ciprofloxacin 500mg BD x 5 days
+2. Tab. Metronidazole 400mg TDS x 5 days
+3. Tab. ORS - frequent sips
+4. Bland diet for 1 week
+5. Maintain hydration
+
+Dr. Arun Banerjee (MD Medicine)                  Date: 28-01-2025
+
+================================================================================
+INSURANCE NOTE:
+================================================================================
+Policy Inception Date: 01-01-2025
+Claim Date: 25-01-2025 (24 days after policy start)
+Initial Waiting Period: 30 days for illness
+
+STATUS: CLAIM WITHIN INITIAL WAITING PERIOD
+================================================================================
