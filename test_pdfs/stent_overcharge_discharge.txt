@@ -1,0 +1,54 @@
+CARDIAC CARE HOSPITAL - DISCHARGE SUMMARY
+789 Heart Institute Road, Bangalore - 560001
+Phone: 080-23456789
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Mohan Reddy
+Age/Sex: 58 Years / Male
+UHID: CCH-2025-009876
+Admission Date: 05-02-2025
+Discharge Date: 08-02-2025
+Total Days: 3 Days (ICU: 1 Day, Ward: 2 Days)
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Acute Myocardial Infarction (STEMI) - Anterior Wall (ICD-10: I21.0)
+Secondary Diagnosis: Triple Vessel Coronary Artery Disease
+Risk Factors: Hypertension, Diabetes Mellitus, Dyslipidemia
+
+TREATMENT SUMMARY
+-----------------
+Patient presented with severe chest pain, sweating and breathlessness.
+ECG showed ST elevation in V1-V4 leads. Troponin I: 12.5 ng/mL.
+
+Emergency Coronary Angiography performed on 05-02-2025:
+- 90% stenosis in LAD (proximal)
+- 70% stenosis in LCX (mid)
+- 60% stenosis in RCA (distal)
+
+Procedure performed:
+- Primary PCI with Drug Eluting Stent (DES) implantation in LAD
+- Stent used: Everolimus Eluting Stent (3.5mm x 28mm)
+- Procedure successful, TIMI 3 flow achieved
+
+Post-procedure:
+- ICU monitoring for 24 hours
+- Antiplatelet therapy: Aspirin + Clopidogrel + Ticagrelor
+- Anticoagulation: Enoxaparin
+- Statin therapy initiated
+- Discharged in stable condition
+
+ADVICE ON DISCHARGE
+-------------------
+1. Tab. Aspirin 75mg OD - lifelong
+2. Tab. Clopidogrel 75mg OD - 12 months
+3. Tab. Ticagrelor 90mg BD - 12 months
+4. Tab. Atorvastatin 40mg HS
+5. Tab. Metoprolol 25mg BD
+6. Tab. Ramipril 2.5mg OD
+7. Regular follow-up with cardiologist
+8. Cardiac rehabilitation program
+
+Dr. Ramesh Iyer (DM Cardiology)                  Date: 08-02-2025
+Registration No: MCI-CARD-9876                   Hospital Seal: [STAMP]
