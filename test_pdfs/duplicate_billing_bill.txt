@@ -1,0 +1,93 @@
+SUNRISE HOSPITAL - FINAL BILL
+Bill No: BILL-2025-003456
+Bill Date: 22-02-2025
+
+Patient Name: Suresh Nair
+Age/Sex: 38 Years / Male
+Admission: 18-02-2025 | Discharge: 22-02-2025 (4 Days)
+
+================================================================================
+ROOM CHARGES
+================================================================================
+Semi-Private Room - 4 days @ Rs. 3,500/day                          Rs. 14,000
+
+================================================================================
+CONSULTATION
+================================================================================
+Dr. Lakshmi Krishnan (MS Surgery) - 4 days                           Rs. 6,000
+
+================================================================================
+OPERATION THEATRE
+================================================================================
+OT Charges                                                          Rs. 12,000
+Anesthesia Charges                                                   Rs. 8,000
+
+================================================================================
+SURGERY
+================================================================================
+Laparoscopic Cholecystectomy                                        Rs. 55,000
+
+================================================================================
+INVESTIGATIONS
+================================================================================
+Complete Blood Count                                                   Rs. 400
+LFT/KFT                                                              Rs. 1,200
+Ultrasound Abdomen                                                   Rs. 2,500
+X-Ray Chest                                                            Rs. 400
+ECG                                                                    Rs. 300
+
+================================================================================
+MEDICINES
+================================================================================
+Inj. Cefoperazone-Sulbactam                                          Rs. 2,400
+Inj. Metronidazole                                                     Rs. 800
+Inj. Tramadol                                                          Rs. 600
+Inj. Ondansetron                                                       Rs. 400
+
+================================================================================
+CONSUMABLES
+================================================================================
+IV Cannula (4 nos)                                                     Rs. 240
+Syringes (20 nos)                                                      Rs. 240
+Surgical Sutures                                                     Rs. 2,500
+Surgical Gloves                                                      Rs. 800
+
+================================================================================
+DUPLICATE BILLING ISSUES (FLAGGED)
+================================================================================
+Dr. Lakshmi Krishnan Consultation - Day 1 (DUPLICATE)                Rs. 1,500
+Dr. Lakshmi Krishnan Consultation - Day 1 (DUPLICATE)                Rs. 1,500
+Complete Blood Count (DUPLICATE ENTRY)                                 Rs. 400
+Complete Blood Count (DUPLICATE ENTRY)                                 Rs. 400
+
+================================================================================
+NON-MEDICAL ITEMS (NOT PAYABLE AS PER IRDAI)
+================================================================================
+Baby Food / Baby Utilities                                             Rs. 850
+Toiletries (Soap, Shampoo, Toothbrush)                                 Rs. 450
+Attendant Charges                                                      Rs. 1,200
+Parking Charges                                                          Rs. 200
+Telephone Charges                                                        Rs. 350
+
+================================================================================
+OTHER CHARGES
+================================================================================
+Nursing Charges                                                      Rs. 3,200
+Diet Charges                                                         Rs. 1,200
+
+================================================================================
+SUMMARY
+================================================================================
+Total Billed Amount:                                                Rs. 118,390
+--------------------------------------------------------------------------------
+
+Payment Mode: Cashless (Insurance)
+Insurance Company: Care Health Insurance
+Policy Number: CHI-456789123
+
+Issues Detected:
+1. Duplicate billing: Consultation Day 1 charged twice (Rs. 3,000)
+2. Duplicate billing: CBC charged twice (Rs. 800)
+3. Non-medical items: Baby food, toiletries, attendant charges (Rs. 2,650)
+
+Corrected Amount should be: Rs. 112,540 (saving of Rs. 5,850)
