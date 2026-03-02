@@ -1,0 +1,85 @@
+MAX HOSPITAL - FINAL BILL
+Bill No: BILL-2025-002345
+Bill Date: 25-02-2025
+
+Patient Name: Deepak Sharma
+Age/Sex: 42 Years / Male
+Admission: 20-02-2025 | Discharge: 25-02-2025 (5 Days)
+
+================================================================================
+ROOM CHARGES
+================================================================================
+Private Room - 5 days @ Rs. 5,000/day                               Rs. 25,000
+
+================================================================================
+CONSULTATION
+================================================================================
+Dr. Priya Desai (Endocrinologist) - 5 days                           Rs. 10,000
+
+================================================================================
+INVESTIGATIONS
+================================================================================
+Complete Blood Count                                                   Rs. 450
+Blood Sugar (multiple - 20 tests)                                    Rs. 3,000
+HbA1c                                                                Rs. 800
+LFT/KFT                                                              Rs. 1,800
+Serum Electrolytes (multiple)                                        Rs. 2,400
+Blood Gas Analysis (ABG)                                             Rs. 1,500
+Urine Routine & Microscopy                                             Rs. 400
+ECG                                                                    Rs. 350
+Chest X-ray                                                            Rs. 500
+
+================================================================================
+MEDICINES
+================================================================================
+Regular Insulin (100 units vial x 2)                                 Rs. 1,200
+Insulin Glargine (1 pen)                                             Rs. 1,800
+Insulin Aspart (1 pen)                                               Rs. 1,500
+IV Fluids (NS, DNS, RL - 30 bottles)                                 Rs. 2,400
+Potassium Chloride (10 amps)                                           Rs. 400
+Inj. Ondansetron                                                       Rs. 600
+Other medications                                                    Rs. 2,500
+
+================================================================================
+CONSUMABLES
+================================================================================
+IV Cannula (6 nos)                                                     Rs. 360
+Syringes/Needles (50 nos)                                              Rs. 600
+Glucose Strips (box)                                                   Rs. 900
+Other consumables                                                    Rs. 1,500
+
+================================================================================
+OTHER CHARGES
+================================================================================
+Nursing Charges                                                      Rs. 4,000
+Diet Charges (Diabetic)                                              Rs. 1,500
+
+================================================================================
+SUMMARY
+================================================================================
+Total Bill Amount:                                                   Rs. 65,010
+--------------------------------------------------------------------------------
+
+================================================================================
+INSURANCE VERIFICATION DETAILS
+================================================================================
+Insurance Company: Care Health Insurance
+Policy Number: CHI-PED-TEST-001
+Policy Start Date: 15-01-2025
+Policy Type: New Individual Policy
+Sum Insured: Rs. 5,00,000
+
+Claim Details:
+- Date of Admission: 20-02-2025
+- Days since policy inception: 36 days
+- Diagnosis: Diabetic Ketoacidosis (Type 2 DM)
+- Pre-existing: YES (Diagnosed in 2023)
+
+Policy Waiting Periods:
+- Initial Waiting Period: 30 days (Completed: 36 days)
+- PED Waiting Period: 36 months (Pending: ~34 months)
+
+EXPECTED DECISION: REJECTED (PED within waiting period)
+As per IRDAI regulations and policy terms, pre-existing diseases are 
+excluded for first 36 months of continuous coverage.
+================================================================================
