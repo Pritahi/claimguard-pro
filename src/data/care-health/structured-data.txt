@@ -1,0 +1,569 @@
+{ “plan_identity_regulatory”: { “insurer_name”: “Care Health Insurance
+Limited”, “plan_name”: “Care Supreme”, “variant_name”: null, “uin”:
+“CHIHLIP25047V022425”, “policy_version”: “Ver:June/25/ASH”,
+“effective_date”: null, “plan_type”: “Individual Health Insurance”,
+“policy_period_options”: [ “1 Year”, “2 Years”, “3 Years” ] },
+“definitions_section”: [ { “term”: “Accidental/Accident”,
+“definition_text”: “A sudden, unforeseen and involuntary event caused by
+external, visible and violent means.”, “page_number”: 3 }, { “term”:
+“AYUSH Hospital”, “definition_text”: “A healthcare facility wherein
+medical/surgical/para-surgical treatment procedures and interventions
+are carried out by AYUSH Medical Practitioner(s) comprising of Central
+or State Government AYUSH Hospital, Teaching hospital attached to AYUSH
+College recognized by Central Government, or registered AYUSH Hospital
+with minimum 5 in-patient beds.”, “page_number”: 3 }, { “term”:
+“Cashless Facility”, “definition_text”: “A facility extended by the
+insurer to the Insured where the payments, of the costs of treatment
+undergone by the insured in accordance with the Policy terms and
+conditions, are directly made to the network Provider by the insurer to
+the extent pre-authorization is approved.”, “page_number”: 4 }, {
+“term”: “Co-payment”, “definition_text”: “A cost-sharing requirement
+under a health insurance policy that provides that the
+policyholder/insured will bear a specified percentage of the admissible
+claim amount. A co-payment does not reduce the sum insured.”,
+“page_number”: 4 }, { “term”: “Cumulative Bonus”, “definition_text”:
+“Any increase or addition in the Sum Insured granted by the insurer
+without an associated increase in premium.”, “page_number”: 4 }, {
+“term”: “Day Care Treatment”, “definition_text”: “Medical treatment,
+and/or Surgical Procedure which is undertaken under general or local
+anesthesia in a Hospital/Day Care Centre in less than 24 consecutive
+hours because of technological advancement, and which would have
+otherwise required a Hospitalization of more than 24 hours.”,
+“page_number”: 5 }, { “term”: “Deductible”, “definition_text”: “A
+cost-sharing requirement under a health insurance policy that provides
+that the Insurer will not be liable for a specified rupee amount in case
+of indemnity policies and for a specified number of days/hours in case
+of hospital cash policies which will apply before any benefits are
+payable by the insurer. A deductible does not reduce the Sum Insured.”,
+“page_number”: 5 }, { “term”: “Domiciliary Hospitalization”,
+“definition_text”: “Medical treatment for an illness/disease/injury
+which in the normal course would require care and treatment at a
+Hospital but is actually taken while confined at home under
+circumstances where patient is not in condition to be removed to
+Hospital or non-availability of room in Hospital.”, “page_number”: 5 },
+{ “term”: “Grace Period”, “definition_text”: “The specified period of
+time, immediately following the premium due date during which premium
+payment can be made to renew or continue a policy in force without loss
+of continuity benefits pertaining to waiting periods and coverage of
+pre-existing diseases. Fifteen days where premium payment mode is
+monthly and thirty days in all other cases.”, “page_number”: 6 }, {
+“term”: “Hospital”, “definition_text”: “Any institution established for
+in-patient care and day care treatment of illness and/or injuries
+registered with local authorities under Clinical Establishments Act,
+2010 or complies with minimum criteria including qualified nursing staff
+round the clock, at least 10-15 in-patient beds, qualified Medical
+Practitioner(s) in charge round the clock, fully equipped operation
+theatre.”, “page_number”: 6 }, { “term”: “Hospitalization”,
+“definition_text”: “Admission in a Hospital for a minimum period of 24
+consecutive ‘In-patient Care’ hours except for specified
+procedures/treatments, where such admission could be for a period of
+less than 24 consecutive hours.”, “page_number”: 6 }, { “term”:
+“Illness”, “definition_text”: “A sickness or a disease or a pathological
+condition leading to the impairment of normal physiological function and
+requires medical treatment. Includes Acute condition (likely to respond
+quickly to treatment) and Chronic condition (needs ongoing or long-term
+monitoring/control).”, “page_number”: 6 }, { “term”: “Pre-existing
+Disease”, “definition_text”: “Any condition, ailment, injury or disease
+that is/are diagnosed by a physician not more than 36 months prior to
+the date of commencement of the policy issued by the insurer; or for
+which medical advice or treatment was recommended by, or received from,
+a physician, not more than 36 months prior to the date of commencement
+of the policy.”, “page_number”: 9 }, { “term”: “Pre-hospitalization
+Medical Expenses”, “definition_text”: “Medical Expenses incurred during
+pre-defined number of days preceding the hospitalization of the Insured
+Person for the same condition for which Hospitalization was required.”,
+“page_number”: 9 }, { “term”: “Post-hospitalization Medical Expenses”,
+“definition_text”: “Medical Expenses incurred during pre-defined number
+of days immediately after the Insured Person is discharged from the
+Hospital for the same condition for which Hospitalization was
+required.”, “page_number”: 9 }, { “term”: “Room Rent”,
+“definition_text”: “The amount charged by a Hospital towards Room &
+Boarding expenses and shall include the associated medical expenses.”,
+“page_number”: 10 }, { “term”: “Sum Insured”, “definition_text”: “The
+amount specified in the Policy Schedule, for which premium is paid by
+the Policyholder.”, “page_number”: 13 }, { “term”: “Single Private AC
+Room”, “definition_text”: “An air conditioned room in a Hospital where a
+single patient along with the attendant is accommodated and which has an
+attached toilet. Such room type shall be the most basic and the most
+economical of all accommodations available as a Single room in that
+Hospital.”, “page_number”: 13 }, { “term”: “Twin Sharing Room”,
+“definition_text”: “A Hospital room where at least two patients are
+accommodated at the same time. Such room shall be the most basic and the
+most economical of all accommodations available as twin sharing rooms in
+that Hospital.”, “page_number”: 13 } ], “eligibility_enrollment”: {
+“min_entry_age”: null, “max_entry_age”: null, “lifelong_renewability”:
+true, “family_composition”: [ “Self”, “Legally married spouse”,
+“Dependent children”, “Dependent parents” ], “grace_period_days”: 30,
+“moratorium_months”: 60, “free_look_period_days”: 30,
+“ped_disclosure_clause”: “Coverage under the policy after the expiry of
+36 months for any pre-existing disease is subject to the same being
+declared at the time of application and accepted by Insurer.” },
+“sum_insured_structure”: { “available_si_options”: [], “si_type”:
+“Individual or Floater”, “sub_limit_applicability_scope”: “Sub-limits
+applicable for specific diseases/conditions as per policy”,
+“restoration_rule”: “Unlimited Automatic Recharge - automatic
+reinstatement of up to the base Sum Insured unlimited times in a policy
+year for same illness as well as different illnesses after base SI,
+Cumulative Bonus, Plus Benefit exhausted.”, “no_claim_bonus”: “50% flat
+increase in Sum Insured on cumulative basis for each completed and
+continuous claim-free Policy Year, maximum 100% of Sum Insured.”,
+“restoration_exhaustion_rule_text”: “The Recharge shall be utilized only
+after the base Sum Insured, applicable Cumulative Bonus, Cumulative
+Bonus Super (if applicable) and Plus Benefit (if applicable) have been
+completely exhausted in that Policy Year.” },
+“room_hospitalization_limits”: { “room_rent_limit”: “No limit”,
+“icu_limit”: “No limit”, “proportionate_deduction”: true,
+“proportionate_deduction_clause”: “If the Insured Person is admitted in
+a Hospital room where the Room Category opted or Room Rent incurred is
+higher than the eligible Room Category/Room Rent as specified in the
+Policy Schedule, then the Policyholder/Insured Person shall bear the
+ratable proportion of the total Associate Medical Expenses in the
+proportion of the difference between the Room Rent actually incurred and
+the Room Rent specified in the Policy Schedule.”, “package_rate_caps”:
+null, “room_category_definition”: “Default: No limit on Room Rent.
+Optional: Single Private AC Room or Twin Sharing Room can be opted.”,
+“network_rules”: { “cashless_only_at_network”: false,
+“non_network_penalty”: “For Smart Select option: 20% co-payment if
+treatment taken in hospitals other than listed in Annexure III”,
+“room_category_restriction_in_network”: null } }, “co_pay_deductible”: {
+“base_co_pay_percentage”: null, “co_pay_applies_after_age”: null,
+“voluntary_deductible_options”: [ { “deductible_amount”: “As specified
+in Policy Schedule”, “premium_discount”: “Discount on Premium payable” }
+], “mandatory_deductible”: null }, “waiting_periods”: {
+“initial_waiting_days”: 30, “ped_waiting_months”: 36,
+“specific_disease_waiting”: { “Arthritis, Osteoarthritis, Osteoporosis,
+Gout, Rheumatism, Spinal Disorders, Joint Replacement Surgery,
+Arthroscopic Knee Surgeries”: 24, “Benign ENT disorders and surgeries
+(Adenoidectomy, Mastoidectomy, Tonsillectomy, Tympanoplasty), Nasal
+Septum Deviation, Sinusitis”: 24, “Benign Prostatic Hypertrophy”: 24,
+“Cataract”: 24, “Dilatation and Curettage”: 24, “Fissure/Fistula in
+anus, Hemorrhoids/Piles, Pilonidal Sinus, Gastric and Duodenal Ulcers”:
+24, “Surgery of Genito-urinary system unless necessitated by
+malignancy”: 24, “All types of Hernia & Hydrocele”: 24, “Hysterectomy
+for menorrhagia or Fibromyoma or prolapse of uterus unless necessitated
+by malignancy”: 24, “Internal tumours, skin tumours, cysts, nodules,
+polyps including breast lumps unless malignant”: 24, “Kidney
+Stone/Ureteric Stone/Lithotripsy/Gall Bladder Stone”: 24, “Myomectomy
+for fibroids”: 24, “Varicose veins and varicose ulcers”: 24,
+“Parkinson’s or Alzheimer’s disease or Dementia”: 24 },
+“maternity_waiting_months”: null }, “disease_sub_limits”: [],
+“pre_post_hospitalization”: { “pre_hospitalization_days”: 60,
+“post_hospitalization_days”: 180, “linkage_condition”: “Admissibility of
+a Claim under Benefit ‘In-patient Care and/or Day Care Treatment’ is a
+pre-condition to the admission of a Claim under Pre Hospitalization
+Medical Expenses and Post Hospitalization Medical expenses. Medical
+Expenses so incurred must be related to the same Illness/Injury for
+which Hospitalization claim is accepted.” }, “benefit_modules”: {
+“day_care_procedures”: “All Day Care Treatments covered up to Sum
+Insured, undertaken under general or local anesthesia in less than 24
+hours due to technological advancement.”, “ambulance_limit”: “Road
+Ambulance Cover up to Sum Insured for transportation from place of
+Medical Emergency to nearest Hospital and/or from one Hospital to
+another for advanced/better equipped medical support. Air Ambulance
+available as Optional Benefit up to amount specified in Policy
+Schedule.”, “ayush_coverage”: “Covered up to Sum Insured for medical
+treatment at AYUSH Hospitals for Ayurveda, Yoga, Naturopathy, Siddha,
+Unani and Homeopathy.”, “organ_donor_cover”: “Covered up to Sum Insured
+for Medical Expenses incurred in respect of the donor for any organ
+transplant surgery during the Policy Year, subject to Transplantation of
+Human Organs Act, 1994.”, “maternity_benefit”: false,
+“modern_treatments”: { “covered”: true, “examples”: [ “Uterine Artery
+Embolization and HIFU”, “Balloon Sinuplasty”, “Deep Brain stimulation”,
+“Oral chemotherapy”, “Immunotherapy- Monoclonal Antibody to be given as
+injection”, “Intra vitreal injections”, “Robotic surgeries”,
+“Stereotactic radio surgeries”, “Bronchial Thermoplasty”, “Vaporisation
+of the prostate (Green laser treatment or holmium laser treatment)”,
+“IONM - (Intra Operative Neuro Monitoring)”, “Stem cell therapy:
+Hematopoietic stem cells for bone marrow transplant for haematological
+conditions” ] }, “mental_health_coverage”: { “covered”: true,
+“inpatient”: null, “opd”: “Covered up to limit specified in Policy
+Schedule through cashless facility for Consultation, Counseling and
+rehabilitation for Acute depression, Obsessive compulsive disorder,
+Anxiety, Post traumatic stress disorder”, “conditions”: [ “Available as
+Optional Benefit - Mental Health wellbeing”, “Only for women insured
+members aged 18 years and above for Women Care benefit” ] },
+“domiciliary_hospitalization”: { “covered”: true, “min_days”: 3,
+“excluded_conditions”: [ “Asthma”, “Bronchitis”, “Chronic Nephritis and
+Chronic Nephritic Syndrome”, “Diarrhoea and all types of Dysenteries
+including Gastro-enteritis”, “Diabetes Mellitus and Diabetes Insipidus”,
+“Epilepsy”, “Hypertension”, “Influenza, cough or cold”, “All Psychiatric
+or Psychosomatic Disorders”, “Pyrexia of unknown origin”, “Tonsillitis
+and Upper Respiratory Tract Infection including Laryngitis and
+Pharyngitis”, “Arthritis, Gout and Rheumatism” ] }, “telemedicine”:
+“Unlimited E-Consultation with qualified General Physicians at network
+through Voice/Video Call/Chat/Email Chat etc.”, “home_care”: null,
+“non_medical_expenses_policy”: { “covered”: false, “limit_type”: null,
+“limit_value”: null, “notes”: “Items specified in Annexure I - List of
+Non-Medical Items are excluded. Claim Shield Optional Benefit can cover
+List-I items.” } }, “exclusions_non_payables”: { “permanent_exclusions”:
+[ “Investigation & Evaluation - admission primarily for diagnostics and
+evaluation purposes only”, “Rest Cure, rehabilitation and respite care -
+admission primarily for enforced bed rest”, “Obesity/Weight Control -
+surgical treatment of obesity not fulfilling specified conditions
+(BMI >= 40 or BMI >= 35 with co-morbidities)”, “Change-of-Gender
+treatments”, “Cosmetic or plastic Surgery - unless for reconstruction
+following Accident, Burn(s) or Cancer”, “Hazardous or Adventure sports -
+as professional”, “Breach of law - treatment arising from criminal
+intent”, “Excluded Providers - treatment in hospitals specifically
+excluded by Insurer”, “Treatment for Alcoholism, drug or substance
+abuse”, “Treatments received in health hydros, nature cure clinics, spas
+or similar establishments”, “Dietary supplements and substances
+purchased without prescription”, “Refractive Error - treatment for
+correction of eye sight less than 7.5 dioptres”, “Unproven Treatments”,
+“Sterility and Infertility - including contraception, IVF, ZIFT, GIFT,
+ICSI, Gestational Surrogacy”, “Maternity - childbirth expenses,
+miscarriage, medical termination of pregnancy except ectopic pregnancy”,
+“Non-Allopathic Treatment (except AYUSH covered under policy)”, “War and
+war like occurrence”, “Act of self-destruction or self-inflicted Injury,
+attempted suicide or suicide”, “Nuclear, chemical or biological attack
+or weapons”, “Treatment taken from anyone who is not a Medical
+Practitioner”, “Routine eye examinations and ear examinations, dentures,
+artificial teeth”, “External prosthesis, corrective devices, external
+durable medical equipment”, “Treatment of mental retardation,
+intellectual disability”, “Circumcision unless necessary for treatment
+of Illness or Accident”, “All preventive care except Annual Health
+Check-up, Vaccination”, “Artificial life maintenance post confirmation
+of vegetative state or brain dead” ], “first_year_exclusions”: [
+“Treatment of any illness within 30 days from first policy commencement
+date except claims arising due to accident” ], “ped_definition”: “Any
+condition, ailment, injury or disease that is/are diagnosed by a
+physician not more than 36 months prior to the date of commencement of
+the policy issued by the insurer; or for which medical advice or
+treatment was recommended by, or received from, a physician, not more
+than 36 months prior to the date of commencement of the policy.”,
+“consumables_policy”: “Items in Annexure I - List of Non-Medical Items
+are excluded. Claim Shield Optional Benefit can make List-I items
+payable.” }, “premium_payment_terms”: { “payment_modes_available”: [
+“Monthly”, “Quarterly”, “Half-Yearly”, “Annual” ],
+“instalment_loading_percent”: null, “grace_period_days”: 30,
+“lapse_condition_text”: “In case of installment premium due not received
+within the grace period, the policy will get cancelled.”,
+“revival_conditions”: “Portability/Migration allowed with continuity
+benefits as per IRDAI guidelines” }, “portability_migration”: {
+“portability_allowed”: true, “migration_allowed”: true,
+“conditions_text”: “Insured Person can port/migrate by applying at least
+30 days before policy renewal date as per IRDAI guidelines. If
+continuously covered without lapses, accrued continuity benefits will be
+available.” }, “grievance_redressal”: { “grievance_process_text”:
+“Contact Company through Website:
+https://www.careinsurance.com/customer-grievance-redressal.html, Mobile
+App: Care Health- Customer App, Toll free (whatsapp number): 8860402452,
+Courier: Any of Company’s Branch Office or corporate office. If not
+satisfied, approach grievance officer at Branch Office or corporate
+office.”, “ombudsman_reference”: “If not satisfied with redressal,
+approach Insurance Ombudsman of respective area/region as per Insurance
+Ombudsman Rules 2017. Grievance may also be lodged at IRDAI integrated
+Grievance Management System - https://bimabharosa.irdai.gov.in/”,
+“regulator_reference”: “IRDAI Registration Number - 148” },
+“claim_operations”: { “cashless_condition”: “Cashless Facility available
+at Network Providers upon pre-authorization approval. Health card along
+with valid Photo ID required.”, “intimation_deadline”: “48 hours from
+date of occurrence of event. Claim must be filed within 30 days from
+date of discharge from hospital.”, “reimbursement_timeline”: “Submit
+documents within 30 days of discharge from Hospital.”,
+“required_documents”: [ “Duly filled and signed Claim form by the
+Insured Person”, “Copy of Photo ID and address proof of Insured Person”,
+“Medical Practitioner’s first consultation paper and referral letter
+advising Hospitalization”, “Medical Practitioner’s prescription advising
+drugs or diagnostic tests or consultations”, “Original numbered
+bills/receipts and discharge summary from the Hospital/Medical
+Practitioner”, “Original numbered bills from licensed
+pharmacy/chemists”, “Original pathological/diagnostic test
+reports/radiology reports and payment receipts”, “Operation Theatre
+Notes (if applicable)”, “Emergency Notes, Initial Assessment Sheet and
+Indoor case papers (if applicable)”, “Original investigation test
+reports and payment receipts supported by Doctor’s reference slip”,
+“MLC/FIR report, Post Mortem Report if applicable and conducted”,
+“Ambulance Receipt”, “Any other document as required by the Company” ],
+“tpa_name”: null, “claim_timeline_rules”: { “pre_authorization_hours”:
+null, “document_submission_days”: 30, “claim_settlement_days”: 15 } },
+“coverage_conditions”: [ { “benefit”: “Pre-existing Disease Coverage”,
+“condition_type”: “Waiting Period”, “condition_text”: “Expenses related
+to the treatment of a pre-existing Disease (PED) and its direct
+complications shall be excluded until the expiry of 36 months of
+continuous coverage after the date of inception of the first policy with
+insurer.”, “source_text_snippet”: “Expenses related to the treatment of
+a pre-existing Disease (PED) and its direct complications shall be
+excluded until the expiry of 36 months of continuous coverage after the
+date of inception of the first policy with insurer.”, “page_number”: 32,
+“machine_trigger”: “policy_continuous_coverage_months >= 36” }, {
+“benefit”: “Named Ailment Coverage”, “condition_type”: “Waiting Period”,
+“condition_text”: “Expenses related to the treatment of the listed
+Conditions, surgeries/treatments shall be excluded until the expiry of
+24 months of continuous coverage after the date of inception of the
+first policy with the Company. This exclusion shall not be applicable
+for claims arising due to an accident.”, “source_text_snippet”:
+“Expenses related to the treatment of the listed Conditions,
+surgeries/treatments shall be excluded until the expiry of 24 months of
+continuous coverage, as may be the case after the date of inception of
+the first policy with the Company.”, “page_number”: 33,
+“machine_trigger”: “policy_continuous_coverage_months >= 24 AND
+claim_cause != ‘accident’” }, { “benefit”: “Initial Waiting Period”,
+“condition_type”: “Waiting Period”, “condition_text”: “Expenses related
+to the treatment of any illness within 30 days from the first policy
+commencement date shall be excluded except claims arising due to an
+accident.”, “source_text_snippet”: “Expenses related to the treatment of
+any illness within 30 days from the first policy commencement date shall
+be excluded except claims arising due to an accident.”, “page_number”:
+34, “machine_trigger”: “policy_days > 30 OR claim_cause == ‘accident’”
+}, { “benefit”: “Cumulative Bonus”, “condition_type”: “No Claim Bonus”,
+“condition_text”: “At the end of each Policy Year, the Company will
+enhance the Sum Insured by 50% flat, on a cumulative basis, for each
+completed and continuous Policy Year. Maximum 100% of Sum Insured.”,
+“source_text_snippet”: “At the end of each Policy Year, the Company will
+enhance the Sum Insured by 50% flat, on a cumulative basis, as a
+Cumulative Bonus for each completed and continuous Policy Year.”,
+“page_number”: 19, “machine_trigger”: “no_claim_years_count * 0.5 *
+base_sum_insured, max = base_sum_insured” }, { “benefit”: “Unlimited
+Automatic Recharge”, “condition_type”: “Restoration”, “condition_text”:
+“If a Claim is payable under the Policy, then the Company agrees to
+automatically make the re-instatement of up to the base Sum Insured
+unlimited times in a policy year. Recharge utilized after base SI,
+Cumulative Bonus, Plus Benefit exhausted.”, “source_text_snippet”: “If a
+Claim is payable under the Policy, then the Company agrees to
+automatically make the re-instatement of up to the base Sum Insured
+unlimited times in a policy year which is valid for that Policy Year
+only.”, “page_number”: 20, “machine_trigger”: “claim_amount > (base_si +
+cumulative_bonus + plus_benefit)” }, { “benefit”: “Domiciliary
+Hospitalization”, “condition_type”: “Minimum Duration”,
+“condition_text”: “The Domiciliary Hospitalization continues for a
+period exceeding 3 consecutive days.”, “source_text_snippet”: “The
+Domiciliary Hospitalization continues for a period exceeding 3
+consecutive days.”, “page_number”: 17, “machine_trigger”:
+“domiciliary_hospitalization_days > 3” }, { “benefit”:
+“Post-Hospitalization”, “condition_type”: “Time Limit”,
+“condition_text”: “For a period of 180 days immediately after the
+Insured Person’s date of discharge from the hospital and claim documents
+to be submitted within 30 days after the completion of 180 days from the
+date of discharge.”, “source_text_snippet”: “For a period of 180 days
+immediately after the Insured Person’s date of discharge from the
+hospital.”, “page_number”: 16, “machine_trigger”: “days_since_discharge
+<= 180” }, { “benefit”: “Moratorium Period”, “condition_type”:
+“Contestability”, “condition_text”: “After completion of five continuous
+years under the policy no look back to be applied. After the expiry of
+Moratorium Period no health insurance claim shall be contestable except
+for proven fraud and permanent exclusions specified in the policy
+contract.”, “source_text_snippet”: “After completion of five continuous
+years under the policy no look back to be applied. This period of five
+years is called as moratorium period.”, “page_number”: 45,
+“machine_trigger”: “policy_continuous_years >= 5” }, { “benefit”: “Free
+Look Period”, “condition_type”: “Cancellation Right”, “condition_text”:
+“The Insured Person shall be allowed free look period of thirty days
+from date of receipt of the policy document to review the terms and
+conditions of the policy, and to return the same if not acceptable.”,
+“source_text_snippet”: “The Insured Person shall be allowed free look
+period of thirty days from date of receipt of the policy document.”,
+“page_number”: 46, “machine_trigger”: “policy_receipt_days <= 30 AND
+is_new_policy == true” }, { “benefit”: “Claim Settlement Timeline”,
+“condition_type”: “Regulatory Timeline”, “condition_text”: “The Company
+shall settle or reject a claim within 15 days from the date of
+intimation on receipt of last necessary document. In case of delay
+beyond stipulated 45 days the Company shall be liable to pay interest at
+a rate 2% above the bank rate.”, “source_text_snippet”: “The Company
+shall settle or reject a claim, as the case may be, within 15 days from
+the date of intimation on receipt of last necessary document.”,
+“page_number”: 40, “machine_trigger”: “settlement_days <= 15” } ],
+“claim_decision_rules”: [ { “rule_id”: “R001”, “rule_title”:
+“Pre-existing Disease Exclusion”, “trigger_condition_text”: “Claim for
+treatment of pre-existing disease within 36 months of policy inception”,
+“machine_trigger_expression”: “is_ped_claim == true AND
+policy_continuous_coverage_months < 36”, “linked_policy_field”:
+“waiting_periods.ped_waiting_months”, “impact_type”: “Rejection”,
+“example_clause_text”: “Expenses related to the treatment of a
+pre-existing Disease (PED) and its direct complications shall be
+excluded until the expiry of 36 months of continuous coverage.” }, {
+“rule_id”: “R002”, “rule_title”: “Named Ailment Waiting Period”,
+“trigger_condition_text”: “Claim for named ailment within 24 months of
+policy inception not due to accident”, “machine_trigger_expression”:
+“is_named_ailment == true AND policy_continuous_coverage_months < 24 AND
+claim_cause != ‘accident’”, “linked_policy_field”:
+“waiting_periods.specific_disease_waiting”, “impact_type”: “Rejection”,
+“example_clause_text”: “Expenses related to the treatment of the listed
+Conditions shall be excluded until the expiry of 24 months of continuous
+coverage. This exclusion shall not be applicable for claims arising due
+to an accident.” }, { “rule_id”: “R003”, “rule_title”: “Initial Waiting
+Period”, “trigger_condition_text”: “Claim for illness within 30 days of
+first policy commencement”, “machine_trigger_expression”: “policy_days
+<= 30 AND claim_cause != ‘accident’ AND is_renewal == false”,
+“linked_policy_field”: “waiting_periods.initial_waiting_days”,
+“impact_type”: “Rejection”, “example_clause_text”: “Expenses related to
+the treatment of any illness within 30 days from the first policy
+commencement date shall be excluded except claims arising due to an
+accident.” }, { “rule_id”: “R004”, “rule_title”: “Proportionate
+Deduction for Higher Room Category”, “trigger_condition_text”: “Insured
+admitted in room with rent higher than eligible room category”,
+“machine_trigger_expression”: “actual_room_rent > eligible_room_rent”,
+“linked_policy_field”:
+“room_hospitalization_limits.proportionate_deduction”, “impact_type”:
+“Deduction”, “example_clause_text”: “Policyholder/Insured Person shall
+bear the ratable proportion of the total Associate Medical Expenses in
+the proportion of the difference between the Room Rent actually incurred
+and the Room Rent specified in the Policy Schedule.” }, { “rule_id”:
+“R005”, “rule_title”: “Co-payment Application”,
+“trigger_condition_text”: “Claim where co-payment option is opted”,
+“machine_trigger_expression”: “copayment_opted == true”,
+“linked_policy_field”: “co_pay_deductible.base_co_pay_percentage”,
+“impact_type”: “Deduction”, “example_clause_text”: “The Co-payment
+proportion shall be borne by the Insured Person on each Claim which will
+be applicable on Benefits namely Hospitalization Expenses, Road
+Ambulance Cover, Claim Shield, Plus Benefit, Air Ambulance Cover,
+Unlimited Care.” }, { “rule_id”: “R006”, “rule_title”: “Deductible
+Application”, “trigger_condition_text”: “Claim where deductible option
+is opted”, “machine_trigger_expression”: “deductible_opted == true AND
+aggregate_claims_policy_year < deductible_amount”,
+“linked_policy_field”: “co_pay_deductible.voluntary_deductible_options”,
+“impact_type”: “Deduction”, “example_clause_text”: “The claim amount
+assessed by the Company for a particular claim shall be reduced by the
+Deductible as specified in the Policy Schedule and the Company shall be
+liable to make payment under the Policy for any Claim only when the
+Deductible on that Claim is exhausted.” }, { “rule_id”: “R007”,
+“rule_title”: “Smart Select Non-Network Co-payment”,
+“trigger_condition_text”: “Treatment taken in hospitals other than
+listed in Annexure III under Smart Select option”,
+“machine_trigger_expression”: “smart_select_opted == true AND
+hospital_in_annexure_iii == false”, “linked_policy_field”:
+“room_hospitalization_limits.network_rules.non_network_penalty”,
+“impact_type”: “Additional Co-payment”, “example_clause_text”: “If the
+Insured Person takes Medical Treatment in hospitals other than those
+listed in Annexure III, then the Policyholder/Insured Person shall bear
+a Co-Payment of 20% on each and every Claim.” }, { “rule_id”: “R008”,
+“rule_title”: “Post-Hospitalization Time Limit”,
+“trigger_condition_text”: “Post-hospitalization expenses claimed after
+180 days from discharge”, “machine_trigger_expression”:
+“days_since_discharge > 180”, “linked_policy_field”:
+“pre_post_hospitalization.post_hospitalization_days”, “impact_type”:
+“Rejection”, “example_clause_text”: “For a period of 180 days
+immediately after the Insured Person’s date of discharge from the
+hospital.” }, { “rule_id”: “R009”, “rule_title”: “Moratorium - No Look
+Back”, “trigger_condition_text”: “Claim after 5 continuous years of
+coverage”, “machine_trigger_expression”: “policy_continuous_years >= 5”,
+“linked_policy_field”: “eligibility_enrollment.moratorium_months”,
+“impact_type”: “Coverage Enhancement”, “example_clause_text”: “After the
+expiry of Moratorium Period no health insurance claim shall be
+contestable except for proven fraud and permanent exclusions specified
+in the policy contract.” }, { “rule_id”: “R010”, “rule_title”:
+“Domiciliary Hospitalization Minimum Duration”,
+“trigger_condition_text”: “Domiciliary hospitalization for 3 days or
+less”, “machine_trigger_expression”: “domiciliary_hospitalization_days
+<= 3”, “linked_policy_field”:
+“benefit_modules.domiciliary_hospitalization.min_days”, “impact_type”:
+“Rejection”, “example_clause_text”: “The Domiciliary Hospitalization
+continues for a period exceeding 3 consecutive days.” } ],
+“document_validation_rules”: [ { “rule_id”: “D001”, “field_check”:
+“Claim Form”, “required_document”: “Duly filled and signed Claim form by
+the Insured Person”, “failure_effect”: “Claim registration not possible”
+}, { “rule_id”: “D002”, “field_check”: “Identity Verification”,
+“required_document”: “Copy of Photo ID and address proof of Insured
+Person (Voter ID, Driving License, Passport, PAN Card, Aadhar Card)”,
+“failure_effect”: “Claim cannot be processed” }, { “rule_id”: “D003”,
+“field_check”: “Hospitalization Necessity”, “required_document”:
+“Medical Practitioner’s first consultation paper and referral letter
+advising Hospitalization”, “failure_effect”: “Claim admissibility cannot
+be established” }, { “rule_id”: “D004”, “field_check”: “Treatment
+Evidence”, “required_document”: “Original numbered bills/receipts and
+discharge summary from Hospital”, “failure_effect”: “Claim amount cannot
+be verified” }, { “rule_id”: “D005”, “field_check”: “Medicine Expenses”,
+“required_document”: “Original numbered bills from licensed
+pharmacy/chemists with prescriptions”, “failure_effect”: “Pharmacy
+expenses not payable” }, { “rule_id”: “D006”, “field_check”: “Diagnostic
+Tests”, “required_document”: “Original pathological/diagnostic test
+reports and payment receipts with Doctor’s reference”, “failure_effect”:
+“Diagnostic expenses not payable” }, { “rule_id”: “D007”, “field_check”:
+“Surgical Procedure”, “required_document”: “Operation Theatre Notes”,
+“failure_effect”: “Surgery related claim not verifiable” }, { “rule_id”:
+“D008”, “field_check”: “Accident Case”, “required_document”: “MLC/FIR
+report, Post Mortem Report if applicable”, “failure_effect”: “Accident
+related claim not admissible” }, { “rule_id”: “D009”, “field_check”:
+“Air Ambulance Claim”, “required_document”: “Medical reports and
+transportation details from air ambulance provider, prescription by
+attending Medical Practitioner confirming necessity, Documentary proof
+for expenses”, “failure_effect”: “Air Ambulance claim not payable” }, {
+“rule_id”: “D010”, “field_check”: “Claim Intimation Timeline”,
+“required_document”: “Claim intimation within 48 hours of event, Claim
+filing within 30 days of discharge”, “failure_effect”: “Delay may result
+in claim rejection unless valid reasons provided” } ],
+“litigation_sensitive_clauses”: [ { “clause_id”: “L001”, “clause_title”:
+“Pre-existing Disease Definition”, “clause_text”: “Any condition,
+ailment, injury or disease that is/are diagnosed by a physician not more
+than 36 months prior to the date of commencement of the policy issued by
+the insurer; or for which medical advice or treatment was recommended
+by, or received from, a physician, not more than 36 months prior to the
+date of commencement of the policy.”, “page_number”: 9,
+“legal_implication”: “Defines PED look-back period as 36 months. Claims
+for PED within 36 months of policy inception may be contested.” }, {
+“clause_id”: “L002”, “clause_title”: “Moratorium Period”, “clause_text”:
+“After completion of five continuous years under the policy no look back
+to be applied. After the expiry of Moratorium Period no health insurance
+claim shall be contestable except for proven fraud and permanent
+exclusions specified in the policy contract.”, “page_number”: 45,
+“legal_implication”: “After 5 years of continuous coverage, insurer
+cannot contest claims except for fraud or permanent exclusions. Critical
+for long-term policyholders.” }, { “clause_id”: “L003”, “clause_title”:
+“Fraud Consequence”, “clause_text”: “If any claim made by the Insured
+Person, is in any respect fraudulent, or if any false statement, or
+declaration is made or used in support thereof, or if any fraudulent
+means or devices are used by the Insured Person or anyone acting on
+his/her behalf to obtain any benefit under this policy, all benefits
+under this policy shall be forfeited.”, “page_number”: 43,
+“legal_implication”: “Fraud leads to forfeiture of all benefits. Amounts
+already paid must be repaid. Burden of proof on insured to show no
+deliberate intention to suppress.” }, { “clause_id”: “L004”,
+“clause_title”: “Material Non-Disclosure”, “clause_text”: “The Policy
+shall be void and all premium paid thereon shall be forfeited to the
+Company in the event of misrepresentation, mis-description or
+non-disclosure of any material fact by the policyholder.”,
+“page_number”: 41, “legal_implication”: “Non-disclosure of material
+facts can void the policy and result in forfeiture of premium. Material
+facts defined as all relevant information sought in proposal form.” }, {
+“clause_id”: “L005”, “clause_title”: “Claim Settlement Timeline with
+Penal Interest”, “clause_text”: “The Company shall settle or reject a
+claim within 15 days from the date of intimation on receipt of last
+necessary document. In case of delay beyond stipulated 45 days the
+Company shall be liable to pay interest at a rate 2% above the bank rate
+from the date of intimation to the date of payment of claim.”,
+“page_number”: 40, “legal_implication”: “Regulatory timeline for claim
+settlement. Delay beyond 45 days triggers penal interest at 2% above RBI
+bank rate.” }, { “clause_id”: “L006”, “clause_title”: “Grace Period and
+Continuity Benefits”, “clause_text”: “At the end of the policy period,
+the policy shall terminate and can be renewed within the Grace Period of
+30 days to maintain continuity of benefits without break in policy.
+Coverage is not available during the grace period.”, “page_number”: 44,
+“legal_implication”: “30-day grace period for renewal. Continuity
+benefits (waiting periods, PED coverage) maintained if renewed within
+grace period. No coverage during grace period itself.” }, { “clause_id”:
+“L007”, “clause_title”: “Portability Rights”, “clause_text”: “The
+Insured Person will have the option to port the policy to other insurers
+by applying to such insurer to port the entire policy along with all the
+members of the family, if any, at least 30 days before, but not earlier
+than 60 days from the policy renewal date as per IRDAI guidelines
+related to portability.”, “page_number”: 44, “legal_implication”:
+“Policyholder has statutory right to port to another insurer with
+continuity benefits. Application window: 30-60 days before renewal
+date.” }, { “clause_id”: “L008”, “clause_title”: “Free Look
+Cancellation”, “clause_text”: “The Insured Person shall be allowed free
+look period of thirty days from date of receipt of the policy document
+to review the terms and conditions of the policy. If no claim made,
+entitled to refund of premium less medical examination expenses, stamp
+duty, and proportionate risk premium for period of cover.”,
+“page_number”: 46, “legal_implication”: “30-day free look period for new
+policies. Policyholder can return policy and get refund with specified
+deductions. Not applicable on renewals or porting/migration.” }, {
+“clause_id”: “L009”, “clause_title”: “Limitation of Liability - Late
+Claim Notification”, “clause_text”: “Any Claim under this Policy for
+which the notification or intimation of Claim is received 12 calendar
+months after the event or occurrence giving rise to the Claim shall not
+be admissible, unless the Policyholder proves to the Company’s
+satisfaction that the delay in reporting of the Claim was for reasons
+beyond his control.”, “page_number”: 48, “legal_implication”: “12-month
+limitation period for claim intimation. Beyond this period, claim
+inadmissible unless policyholder proves delay was beyond control.” }, {
+“clause_id”: “L010”, “clause_title”: “Excluded Providers - Life
+Threatening Exception”, “clause_text”: “Expenses incurred towards
+treatment in any hospital or by any Medical Practitioner or any other
+provider specifically excluded by the Insurer are not admissible.
+However, in case of life threatening situations or following an
+accident, expenses up to the stage of stabilization are payable but not
+the complete claim.”, “page_number”: 36, “legal_implication”: “Treatment
+in excluded hospitals not payable except in life-threatening situations
+or accident. Only stabilization expenses covered, not complete
+treatment.” } ] }
