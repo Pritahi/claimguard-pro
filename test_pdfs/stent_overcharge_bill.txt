@@ -1,0 +1,73 @@
+CARDIAC CARE HOSPITAL - FINAL BILL
+Bill No: BILL-2025-009876
+Bill Date: 08-02-2025
+
+Patient Name: Mohan Reddy
+Age/Sex: 58 Years / Male
+Admission: 05-02-2025 | Discharge: 08-02-2025 (3 Days)
+
+================================================================================
+ROOM CHARGES
+================================================================================
+CCU - 1 day @ Rs. 15,000/day                                         Rs. 15,000
+Private Room - 2 days @ Rs. 8,000/day                                Rs. 16,000
+
+================================================================================
+CONSULTATION
+================================================================================
+Dr. Ramesh Iyer (DM Cardiology) - 3 days                             Rs. 9,000
+
+================================================================================
+INVESTIGATIONS
+================================================================================
+ECG (multiple)                                                         Rs. 800
+2D Echocardiography                                                  Rs. 3,500
+Troponin I (3 tests)                                                 Rs. 3,600
+Complete Blood Count                                                   Rs. 500
+Lipid Profile                                                        Rs. 1,200
+LFT/KFT                                                              Rs. 1,800
+Blood Sugar (multiple)                                                 Rs. 900
+PT/INR                                                                 Rs. 450
+
+================================================================================
+CARDIAC PROCEDURES
+================================================================================
+Coronary Angiography                                                 Rs. 25,000
+Primary PCI (Angioplasty)                                            Rs. 85,000
+
+================================================================================
+IMPLANTS & DEVICES (CRITICAL - NPPA REGULATED)
+================================================================================
+Drug Eluting Stent (Everolimus 3.5x28mm)                            Rs. 65,000
+(Guiding Catheter, Guidewire, Balloon - included in package)
+
+================================================================================
+MEDICINES & CONSUMABLES
+================================================================================
+Aspirin, Clopidogrel, Ticagrelor, Atorvastatin, etc.                 Rs. 4,500
+Heparin/Enoxaparin                                                   Rs. 2,800
+Contrast Media                                                       Rs. 3,500
+Cardiac Catheters & Sheaths                                          Rs. 8,000
+Surgical Consumables                                                 Rs. 5,500
+
+================================================================================
+OTHER CHARGES
+================================================================================
+Nursing Charges (CCU + Ward)                                         Rs. 3,500
+Diet Charges                                                           Rs. 900
+Oxygen Charges                                                         Rs. 600
+
+================================================================================
+SUMMARY
+================================================================================
+Total Bill Amount:                                                  Rs. 266,550
+--------------------------------------------------------------------------------
+
+IMPORTANT NOTES:
+- Stent Price: Rs. 65,000 (Hospital's claim: Premium imported DES)
+- NPPA Ceiling for DES: Rs. 30,080
+- OVERCHARGE: Rs. 34,920 above NPPA ceiling
+
+Payment Mode: Cashless (Insurance)
+Insurance Company: Care Health Insurance
+Policy Number: CHI-987654321
