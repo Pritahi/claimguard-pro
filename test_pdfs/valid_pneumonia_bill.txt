@@ -1,0 +1,78 @@
+CITY HOSPITAL - FINAL ITEMIZED BILL
+Bill No: BILL-2025-001234
+Bill Date: 20-02-2025
+UHID: CH-2025-001234
+
+Patient Name: Rajesh Kumar Sharma
+Age/Sex: 45 Years / Male
+Admission Date: 15-02-2025
+Discharge Date: 20-02-2025
+Total Days: 5 Days
+
+================================================================================
+ROOM CHARGES
+================================================================================
+Private Room (General) - 5 days @ Rs. 4,000/day                    Rs. 20,000
+
+================================================================================
+CONSULTATION CHARGES
+================================================================================
+Dr. Amit Patel (MD Medicine) - 5 days @ Rs. 1,000/day               Rs. 5,000
+
+================================================================================
+NURSING CHARGES
+================================================================================
+General Nursing - 5 days @ Rs. 800/day                              Rs. 4,000
+
+================================================================================
+INVESTIGATIONS
+================================================================================
+Complete Blood Count (CBC)                                            Rs. 400
+Blood Sugar (Fasting & PP)                                            Rs. 300
+Liver Function Test (LFT)                                             Rs. 600
+Kidney Function Test (KFT)                                            Rs. 600
+Chest X-ray PA View                                                   Rs. 500
+Blood Culture                                                         Rs. 800
+Sputum Culture                                                        Rs. 600
+ECG                                                                   Rs. 300
+
+================================================================================
+MEDICINES & CONSUMABLES
+================================================================================
+Inj. Ceftriaxone 1g (10 vials) @ Rs. 120/vial                       Rs. 1,200
+Inj. Azithromycin 500mg (5 vials) @ Rs. 80/vial                       Rs. 400
+Paracetamol IV (10 amps) @ Rs. 25/amp                                 Rs. 250
+Normal Saline (20 bottles) @ Rs. 45/bottle                            Rs. 900
+Dextrose 5% (10 bottles) @ Rs. 50/bottle                              Rs. 500
+IV Cannula (6 nos) @ Rs. 60 each                                      Rs. 360
+Syringes 5ml (20 nos) @ Rs. 12 each                                   Rs. 240
+Nebulization Kit (5 sets) @ Rs. 150/set                               Rs. 750
+Oxygen (nasal cannula + tubing)                                       Rs. 400
+Surgical Gloves (10 pairs) @ Rs. 40/pair                              Rs. 400
+
+================================================================================
+PROCEDURE CHARGES
+================================================================================
+Nebulization - 15 sessions @ Rs. 100/session                        Rs. 1,500
+Oxygen Administration - 2 days @ Rs. 500/day                        Rs. 1,000
+
+================================================================================
+DIET CHARGES
+================================================================================
+Hospital Diet (5 days) @ Rs. 300/day                                Rs. 1,500
+
+================================================================================
+SUMMARY
+================================================================================
+Total Bill Amount:                                                  Rs. 45,950
+Less: Discount (5%)                                                  Rs. 2,298
+--------------------------------------------------------------------------------
+NET PAYABLE:                                                        Rs. 43,652
+--------------------------------------------------------------------------------
+
+Payment Mode: Cashless (Insurance)
+Insurance Company: Care Health Insurance
+Policy Number: CHI-123456789
+
+Authorized Signatory: ___________________
+                     Accounts Department
