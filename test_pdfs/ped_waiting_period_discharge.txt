@@ -1,0 +1,60 @@
+MAX HOSPITAL - DISCHARGE SUMMARY
+456 Medical Complex, Pune - 411001
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Deepak Sharma
+Age/Sex: 42 Years / Male
+UHID: MAX-2025-002345
+Admission Date: 20-02-2025
+Discharge Date: 25-02-2025
+Total Days: 5 Days
+
+DIAGNOSIS
+---------
+Primary Diagnosis: Diabetic Ketoacidosis (ICD-10: E11.65)
+Secondary Diagnosis: Type 2 Diabetes Mellitus with Hyperglycemia
+Complications: Mild Dehydration, Electrolyte Imbalance
+
+TREATMENT SUMMARY
+-----------------
+Patient presented with excessive thirst, frequent urination, nausea and 
+abdominal pain. Blood glucose: 485 mg/dL. HbA1c: 11.2%.
+
+Patient history reveals:
+- Diagnosed with Type 2 Diabetes 2 years ago (2023)
+- On oral hypoglycemic agents
+- Poor glycemic control
+
+Treatment given:
+- IV fluids (Normal Saline) with KCl supplementation
+- Regular insulin infusion (sliding scale)
+- Blood glucose monitoring every 2 hours
+- Electrolyte monitoring and correction
+- Antiemetics for nausea
+
+Patient stabilized after 48 hours. Switched to subcutaneous insulin.
+Discharged with insulin regimen and diabetes education.
+
+ADVICE ON DISCHARGE
+-------------------
+1. Insulin Glargine 20 units OD (bedtime)
+2. Insulin Aspart 8 units TDS (before meals)
+3. Continue Metformin 500mg BD
+4. Diabetic diet and regular exercise
+5. Self-blood glucose monitoring
+6. Endocrinology follow-up after 1 week
+
+Dr. Priya Desai (MD Medicine, DM Endocrinology)     Date: 25-02-2025
+
+================================================================================
+CRITICAL INSURANCE NOTE:
+================================================================================
+Policy Inception Date: 15-01-2025 (New Policy)
+Claim Date: 20-02-2025 (Policy active for only 36 days)
+PED Waiting Period: 36 months (3 years) as per policy terms
+Diabetes Diagnosed: 2023 (2 years before policy inception)
+
+STATUS: PRE-EXISTING DISEASE CLAIM WITHIN WAITING PERIOD
+This claim falls under PED exclusion as per policy terms.
+================================================================================
