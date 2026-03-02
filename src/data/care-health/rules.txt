@@ -1,0 +1,49 @@
+AI BILL AUDIT RULE BOOK (DOCUMENT-BASED) – R001 to R060
+
+A. Identity & Structural Validation R001 – Hospital name present R002 –
+Hospital registration number present R003 – Patient name match (bill vs
+discharge summary) R004 – Admission & discharge date consistency R005 –
+Diagnosis present R006 – Treating doctor name present R007 – Doctor
+signature/stamp present R008 – Bill number & date present
+
+B. Date & Stay Logic R009 – Discharge ≥ Admission R010 – ICU days ≤
+total stay R011 – Room days match stay duration R012 – Surgery date
+within admission period R013 – Duplicate admission detection R014 –
+Overlapping billing dates
+
+C. Room Rent & Proportionate Deduction R015 – Eligible room limit
+validation R016 – Room category detection R017 – Proportionate deduction
+ratio R018 – Associated charges ratio apply R019 – ICU exclusion from
+proportion rule (if policy says) R020 – Room downgrade no deduction R021
+– Package vs room inconsistency R022 – Excess room rent flag
+
+D. Sub-Limit Enforcement R023 – Cataract limit enforcement R024 – Hernia
+limit enforcement R025 – Piles limit enforcement R026 – Joint
+replacement cap R027 – Modern treatment cap R028 – Organ donor limit
+R029 – AYUSH validation R030 – Disease-specific cap validation
+
+E. Financial Accuracy R031 – Line item total match R032 – GST
+correctness R033 – Double billing detection R034 – Duplicate medicine
+code R035 – Excess quantity flag R036 – High-value consumable spike R037
+– Unusual price anomaly R038 – Package inclusion double charge
+
+F. Exclusion Detection R039 – Cosmetic procedure flag R040 – Fertility
+treatment flag R041 – Non-medical consumables flag R042 – Health
+supplement exclusion R043 – Experimental treatment R044 – Dental
+non-accidental flag R045 – Refractive surgery exclusion R046 –
+Alcohol-related injury indicator
+
+G. Pre & Post Hospitalization R047 – Pre-hospital within allowed days
+R048 – Post-hospital within allowed days R049 – Pre/post linked to
+diagnosis R050 – Pharmacy invoice date validation R051 – Lab outside
+coverage window R052 – Follow-up beyond allowed period
+
+H. Medical Reasonability R053 – Surgery without anesthesia anomaly R054
+– Major surgery without ICU anomaly R055 – ICU without critical
+diagnosis R056 – Procedure-diagnosis mismatch R057 – Excess
+investigation for minor diagnosis
+
+I. Fraud & Red Flags R058 – Identical handwriting pattern R059 – Round
+figure billing pattern R060 – Repeated abnormal billing trend
+
+END OF RULE BOOK.
